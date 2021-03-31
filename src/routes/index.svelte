@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Hello Svelte.kit!</h1>
+	<h1>Svelte.kit from Vercel!</h1>
 
 	<Counter />
 
@@ -19,7 +19,6 @@
 
 	h1 {
 		color: #ff3e00;
-		text-transform: uppercase;
 		font-size: 4rem;
 		font-weight: 100;
 		line-height: 1.1;
